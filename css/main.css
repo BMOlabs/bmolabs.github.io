@@ -408,3 +408,14 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+/* CUSTOM STYLES */
+/* ----------------------------------------------------------*/
+.clearfix:before, .clearfix:after { content: " "; display: table; }
+.clearfix:after { clear: both; }
+
+.home h1, .home h2 { font-weight: 700; }
+.home h2 { margin-bottom: 20px; }
+
+dl.horizontal dt, dl.horizontal dd { float: left; }
+dl.horizontal dt { font-weight: 400; width: 100px; }
