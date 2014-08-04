@@ -1,0 +1,10 @@
+# Site settings
+title: MILOŠ GAVRILOVIĆ PR RAČUNARSKO PROGRAMIRANJE BMO
+email: labs@bmo.io
+description: "MILOŠ GAVRILOVIĆ PR RAČUNARSKO PROGRAMIRANJE BMO"
+baseurl: ""
+url: "http://bmo.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
